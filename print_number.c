@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int course_number[6] = {4, 2, 1, 4, 3, 2};
